@@ -1,0 +1,55 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Data and output files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tfrecord
+*.log
+*.csv
+*.npy
+*.npz
+
+# Model weights and checkpoints
+checkpoints/
+models/
+weights/
+*.pth
+*.pt
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Kaggle and Colab hidden files
+.kaggle/
+.colab/
+
+# System files
+Thumbs.db
+
+# Output folders
+outputs/
+logs/
+runs/
